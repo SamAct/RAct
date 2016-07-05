@@ -1,2 +1,2 @@
 # RAct
-A repository for Python projects in learning.
+A repository for R projects in learning.
